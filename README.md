@@ -9,9 +9,14 @@
 ├── README.md
 ├── ai/                          # AI/LLM 相关
 │   ├── agents/                  # Agent 框架与实践
+│   │   └── OpenClaw_架构学习参考.md
 │   ├── claude/                  # Claude 系列工具
+│   │   └── articles/
+│   │       └── claude-code-architecture-governance.md
 │   ├── llm/                     # 大语言模型通用知识
-│   └── prompts/                 # Prompt 工程
+│   ├── prompts/                 # Prompt 工程
+│   └── video-generation/        # AI 视频生成
+│       └── seedance-producer-prompt.md
 ├── architecture/                # 系统架构
 ├── dev-tools/                   # 开发工具
 ├── engineering/                 # 工程实践
