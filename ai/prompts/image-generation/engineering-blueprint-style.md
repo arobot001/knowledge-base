@@ -1,21 +1,32 @@
-# 工程设计手稿风格提示词
+# 工程设计手稿风格 - 图像生成提示词
 
 > **来源**: 云归自定义
+> **类型**: 图像生成提示词 (Image Generation Prompt)
+> **适用模型**: Gemini/Claude/NanoBanana 等支持图像生成的模型
 > **整理时间**: 2026-04-28
 
 ---
 
-## 提示词原文
+## 提示词原文 (Prompt)
 
 ```
-- 纯白色背景，大量留白
-- 工程图纸线条风格（细腻、精确）
-- 手写体标题（深灰色）
-- 工程标注方式展示步骤
-- 淡蓝色、淡绿色、淡橙色水彩点缀（高透明度）
-- 类似苹果/特斯拉产品设计手稿的现代感
-- 简洁图标配合步骤说明
-- 清爽、专业、科技感
+Engineering blueprint style illustration, pure white background with generous whitespace, 
+delicate and precise technical drawing line work, handwritten title in dark gray, 
+engineering annotation style for step-by-step display, 
+light blue / light green / light orange watercolor accents with high transparency, 
+Apple/Tesla product design sketch modern aesthetic, 
+clean minimalist icons paired with step descriptions, 
+refreshing, professional, tech-forward feel.
+```
+
+**中文版本:**
+```
+工程设计手稿风格，纯白色背景，大量留白，
+工程图纸线条风格（细腻、精确），
+手写体标题（深灰色），工程标注方式展示步骤，
+淡蓝色、淡绿色、淡橙色水彩点缀（高透明度），
+类似苹果/特斯拉产品设计手稿的现代感，
+简洁图标配合步骤说明，清爽、专业、科技感
 ```
 
 ---
