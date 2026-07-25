@@ -1,3 +1,14 @@
+---
+title: "NanoBanana2 幻灯片风格提示词集"
+date: 2026-03-27
+category: ai/prompts/image-generation
+tags: [image-generation, prompt, slides, nanobanana2, gemini, ppt]
+source: github
+author: "AAAAAAAJ"
+url: "https://github.com/AAAAAAAJ/slides"
+related: [engineering-blueprint-style, article-illustrator]
+---
+
 # NanoBanana2 幻灯片风格提示词集
 
 > **原文出处**

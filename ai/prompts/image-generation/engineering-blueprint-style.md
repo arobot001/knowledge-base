@@ -1,3 +1,13 @@
+---
+title: "工程设计手稿风格 - 图像生成提示词"
+date: 2026-04-28
+category: ai/prompts/image-generation
+tags: [image-generation, prompt, blueprint, design, gemini, nanobanana]
+source: custom
+author: 云归
+related: [nanobanana2-slides-styles, article-illustrator]
+---
+
 # 工程设计手稿风格 - 图像生成提示词
 
 > **来源**: 云归自定义

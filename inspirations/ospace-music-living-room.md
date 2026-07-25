@@ -1,3 +1,12 @@
+---
+title: "灵感：ospace 音乐网站改造 - 音乐客厅"
+date: 2026-04-20
+category: inspirations
+tags: [music, web-design, social, product-idea]
+source: custom
+related: []
+---
+
 # 灵感：ospace 音乐网站改造 - 音乐客厅
 
 ## 想法概述

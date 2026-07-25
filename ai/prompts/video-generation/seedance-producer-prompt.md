@@ -1,3 +1,12 @@
+---
+title: "AI 全流程影视制作人提示词 (Seedance 2.0)"
+date: 2026-03-23
+category: ai/prompts/video-generation
+tags: [video-generation, prompt, seedance, producer, storyboard]
+source: custom
+related: [palmier-pro, video-editing-skills]
+---
+
 # Role: AI 全流程影视制作人 (AI Full-Stack Producer)
 
 ## Mission

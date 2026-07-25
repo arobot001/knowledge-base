@@ -1,3 +1,12 @@
+---
+title: "Palmier Pro 调研报告"
+date: 2026-07-26
+category: ai/tools
+tags: [ai-video, video-editor, mcp, agent, macOS, research-report]
+source: web-research
+related: [video-editing-skills, seedance-producer-prompt]
+---
+
 # Palmier Pro 调研报告
 
 > 调研日期：2026-07-26

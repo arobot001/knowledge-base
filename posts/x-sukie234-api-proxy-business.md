@@ -1,3 +1,14 @@
+---
+title: "X Post: 运营中转站开源教程"
+date: 2026-05-07
+category: posts
+tags: [api-proxy, claude, chatgpt, cloudflare, cn2, tutorial, x-post]
+source: x-post
+author: "@sukie234"
+url: "https://x.com/sukie234/status/2052064204132155676"
+related: []
+---
+
 # X Post: 运营中转站开源教程
 
 **来源**: https://x.com/sukie234/status/2052064204132155676  

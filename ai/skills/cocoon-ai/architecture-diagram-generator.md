@@ -1,3 +1,14 @@
+---
+title: "Architecture Diagram Generator Skill"
+date: 2026-04-15
+category: ai/skills
+tags: [skill, diagram, architecture, svg, html, cocoon-ai]
+source: github
+author: "Cocoon AI"
+url: "https://github.com/Cocoon-AI/architecture-diagram-generator"
+related: []
+---
+
 # Architecture Diagram Generator Skill
 
 > **原文出处**

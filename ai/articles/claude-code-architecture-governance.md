@@ -1,3 +1,14 @@
+---
+title: "你不知道的 Claude Code：架构、治理与工程实践"
+date: 2026-03-14
+category: ai/articles
+tags: [claude-code, architecture, context-engineering, skills, hooks, subagents, prompt-caching]
+source: web-article
+author: "Tw93 (@HiTw93)"
+url: "https://x.com/HiTw93/status/2032091246588518683"
+related: [openclaw-multi-agent-architecture]
+---
+
 # 你不知道的 Claude Code：架构、治理与工程实践
 
 > **原文出处**

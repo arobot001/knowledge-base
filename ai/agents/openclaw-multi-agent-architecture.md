@@ -1,3 +1,12 @@
+---
+title: "OpenClaw 多 Agent 系统架构学习参考"
+date: 2026-03-23
+category: ai/agents
+tags: [openclaw, multi-agent, architecture, context-engineering, memory-system, cron]
+source: web-article
+related: [claude-code-architecture-governance]
+---
+
 # OpenClaw 多 Agent 系统架构学习参考
 
 > 提炼自《OpenClaw 实战：一个人、一台 Mac、六个 AI Agent》（原文 14k 浏览）

@@ -1,3 +1,13 @@
+---
+title: "OpenAI Academy Prompt Packs 概览"
+date: 2026-03-27
+category: ai/prompts/prompt-engineering
+tags: [prompt-engineering, openai, prompt-packs, reference]
+source: web-article
+url: "https://academy.openai.com/public/tags/prompt-packs-6849a0f98c613939acef841c"
+related: []
+---
+
 # OpenAI Academy Prompt Packs 概览
 
 > **原文出处**

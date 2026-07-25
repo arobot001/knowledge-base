@@ -1,3 +1,13 @@
+---
+title: "视频剪辑 SKILL 推荐（懒人收藏版）"
+date: 2026-07-22
+category: ai/tools
+tags: [video-editing, tools, skills, ffmpeg, remotion, hyperframes]
+source: custom
+author: 云归
+related: [palmier-pro, seedance-producer-prompt]
+---
+
 # 视频剪辑 SKILL 推荐（懒人收藏版）
 
 > 整理日期：2026-07-22

@@ -1,3 +1,13 @@
+---
+title: "AI 干货周报 Skill"
+date: 2026-04-15
+category: ai/skills
+tags: [skill, ai-news, weekly-report, content-curation, youmind]
+source: web
+url: "https://youmind.com/zh-CN/skills/ai-insights-weekly-report-MzVGQ4AVyaLtxX"
+related: []
+---
+
 # AI 干货周报 Skill
 
 > **原文出处**
