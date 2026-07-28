@@ -36,6 +36,10 @@ related: [palmier-pro, seedance-producer-prompt]
 - **地址：** <https://github.com/remotion-dev/remotion>
 - **简介：** React 框架生成视频，适合需要复杂动画和组件化动效的场景。
 
+### Video Shotcraft（Remotion 上层 AI 技能）
+- **地址：** <https://github.com/Vincentwei1021/video-shotcraft>
+- **简介：** 基于 Remotion 的 AI agent 技能，提供 104 个镜头配方卡片、161 种风格预设和动态预览，支持 2.5D 镜头运动、节拍同步剪辑和电影级音效。配合 Claude Code / Codex 使用，可直接生成电影级产品宣传/演示视频。
+
 ---
 
 ## 3. 口播剪辑
