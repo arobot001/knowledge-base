@@ -2,15 +2,22 @@
 title: "数字人制作工具"
 date: 2026-07-31
 category: ai/tools
-tags: [digital-human, video, ai, voice-cloning, heygen, minimax]
+tags: [digital-human, video, ai, voice-cloning, heygen, minimax, fish-audio, tts]
 source: custom
 author: 云归
 related: [video-editing-skills]
 ---
 
-# 数字人制作工具
+# 数字人与语音克隆工具
 
 > 整理日期：2026-07-31
+
+## Fish Audio
+- **地址：** <https://fish.audio/zh-CN/discovery/>
+- **简介：** AI 文字转语音 & 免费语音克隆平台。支持情感控制、语速音调调节、非语言提示（笑声、咳嗽等），拥有 200 万+ 声音库，支持 8 种语言。底层模型 OpenAudio S1 逼真度接近真人，也可本地部署。
+- **适用场景：** 数字人配音、有声书、播客、视频旁白等。
+
+---
 
 ## rachel-digital-human-production
 - **地址：** <https://github.com/Jingyi-Wu-Richael/rachel-digital-human-production>
