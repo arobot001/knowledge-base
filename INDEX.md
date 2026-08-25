@@ -74,6 +74,7 @@
 |------|------|------|------|
 | [X Post: 提高审美的网站推荐](posts/x-jackywine-design-aesthetic.md) | 2026-06-02 | design, aesthetic, web-design | - |
 | [X Post: 运营中转站开源教程](posts/x-sukie234-api-proxy-business.md) | 2026-05-07 | api-proxy, claude, cloudflare, tutorial | - |
+| [小红书充值页面](posts/xiaohongshu-recharge.md) | 2026-08-25 | 小红书, 充值, 平台 | - |
 
 ---
 
@@ -81,14 +82,14 @@
 
 | 维度 | 数量 |
 |------|------|
-| 总条目 | 14 |
+| 总条目 | 15 |
 | Agent 设计 | 2 |
 | 文章笔记 | 1 |
 | 提示词 | 4 |
 | AI Skills | 2 |
 | 工具调研 | 2 |
 | 灵感 | 1 |
-| 帖子收藏 | 2 |
+| 帖子收藏 | 3 |
 
 ## 🏷️ 标签云
 
