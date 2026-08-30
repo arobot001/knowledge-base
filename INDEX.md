@@ -47,6 +47,7 @@
 | 条目 | 日期 | 标签 | 关联 |
 |------|------|------|------|
 | [OpenAI Academy Prompt Packs 概览](ai/prompts/prompt-engineering/openai-academy-prompt-packs.md) | 2026-03-27 | prompt-engineering, openai | - |
+| [图片反推提示词模板合集](ai/prompts/prompt-engineering/image-reverse-prompt-templates.md) | 2026-08-30 | prompt-engineering, image-gen, 反推 | - |
 
 ## AI Skills/插件
 
@@ -82,10 +83,10 @@
 
 | 维度 | 数量 |
 |------|------|
-| 总条目 | 15 |
+| 总条目 | 16 |
 | Agent 设计 | 2 |
 | 文章笔记 | 1 |
-| 提示词 | 4 |
+| 提示词 | 5 |
 | AI Skills | 2 |
 | 工具调研 | 2 |
 | 灵感 | 1 |
@@ -93,7 +94,7 @@
 
 ## 🏷️ 标签云
 
-`agent` `architecture` `prompt` `image-generation` `video-generation` `claude-code` `openclaw` `multi-agent` `context-engineering` `memory-system` `skills` `hooks` `subagents` `prompt-caching` `seedance` `nanobanana2` `blueprint` `design` `mcp` `video-editing` `ffmpeg` `diagram` `svg` `ai-news` `cloudflare` `api-proxy` `macOS` `web-design` `music` `product-idea`
+`agent` `architecture` `prompt` `image-generation` `反推` `video-generation` `claude-code` `openclaw` `multi-agent` `context-engineering` `memory-system` `skills` `hooks` `subagents` `prompt-caching` `seedance` `nanobanana2` `blueprint` `design` `mcp` `video-editing` `ffmpeg` `diagram` `svg` `ai-news` `cloudflare` `api-proxy` `macOS` `web-design` `music` `product-idea`
 
 ---
 
