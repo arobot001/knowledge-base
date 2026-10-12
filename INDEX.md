@@ -1,6 +1,6 @@
 # 知识索引
 
-> 最后更新：2026-09-03 | 条目总数：17
+> 最后更新：2026-10-12 | 条目总数：18
 
 ## 📌 快速导航
 
@@ -63,6 +63,7 @@
 |------|------|------|------|
 | [Palmier Pro 调研报告](ai/tools/palmier-pro.md) | 2026-07-26 | ai-video, editor, mcp, macOS | video-editing, seedance |
 | [视频剪辑 SKILL 推荐（懒人收藏版）](ai/tools/video-editing-skills.md) | 2026-07-22 | video-editing, tools, ffmpeg | palmier-pro, seedance |
+| [网页动效宝藏站点合集（5 个）](ai/tools/web-motion-sites.md) | 2026-10-12 | web-design, animation, ui-components, vibe-coding | x-jackywine-design-aesthetic, infinite-canvas |
 
 ## 灵感记录
 
@@ -84,18 +85,18 @@
 
 | 维度 | 数量 |
 |------|------|
-| 总条目 | 17 |
+| 总条目 | 18 |
 | Agent 设计 | 2 |
 | 文章笔记 | 1 |
 | 提示词 | 5 |
 | AI Skills | 3 |
-| 工具调研 | 2 |
+| 工具调研 | 3 |
 | 灵感 | 1 |
 | 帖子收藏 | 3 |
 
 ## 🏷️ 标签云
 
-`agent` `architecture` `prompt` `image-generation` `反推` `video-generation` `claude-code` `openclaw` `multi-agent` `context-engineering` `memory-system` `skills` `hooks` `subagents` `prompt-caching` `seedance` `nanobanana2` `blueprint` `design` `mcp` `video-editing` `ffmpeg` `diagram` `svg` `ai-news` `cloudflare` `api-proxy` `macOS` `web-design` `music` `product-idea` `reverse-engineering` `security` `pentest`
+`agent` `architecture` `prompt` `image-generation` `反推` `video-generation` `claude-code` `openclaw` `multi-agent` `context-engineering` `memory-system` `skills` `hooks` `subagents` `prompt-caching` `seedance` `nanobanana2` `blueprint` `design` `mcp` `video-editing` `ffmpeg` `diagram` `svg` `ai-news` `cloudflare` `api-proxy` `macOS` `web-design` `animation` `ui-components` `vibe-coding` `frontend` `music` `product-idea` `reverse-engineering` `security` `pentest`
 
 ---
 
