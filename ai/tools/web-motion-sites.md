@@ -6,7 +6,7 @@ tags: [web-design, animation, ui-components, tools, vibe-coding, frontend]
 source: web-research
 author: "豆包整理"
 url: "https://motionsites.ai/"
-related: [x-jackywine-design-aesthetic, infinite-canvas]
+related: [x-jackywine-design-aesthetic, infinite-canvas, design-inspiration-sites]
 ---
 
 # 网页动效宝藏站点合集
