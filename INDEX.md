@@ -1,6 +1,6 @@
 # 知识索引
 
-> 最后更新：2026-10-15 | 条目总数：19
+> 最后更新：2026-10-20 | 条目总数：20
 
 ## 📌 快速导航
 
@@ -79,6 +79,7 @@
 | [X Post: 提高审美的网站推荐](posts/x-jackywine-design-aesthetic.md) | 2026-06-02 | design, aesthetic, web-design | - |
 | [X Post: 运营中转站开源教程](posts/x-sukie234-api-proxy-business.md) | 2026-05-07 | api-proxy, claude, cloudflare, tutorial | - |
 | [小红书充值页面](posts/xiaohongshu-recharge.md) | 2026-08-25 | 小红书, 充值, 平台 | - |
+| [小红书接商单实战问答：花 1000 找大 PR 做的咨询](posts/xiaohongshu-brand-deal-playbook.md) | 2026-10-20 | xiaohongshu, 小红书, 商单, 报价, mcn, 投放 | xiaohongshu-recharge, douyin-restricted-words |
 
 ---
 
@@ -86,18 +87,18 @@
 
 | 维度 | 数量 |
 |------|------|
-| 总条目 | 19 |
+| 总条目 | 20 |
 | Agent 设计 | 2 |
 | 文章笔记 | 1 |
 | 提示词 | 5 |
 | AI Skills | 3 |
 | 工具调研 | 4 |
 | 灵感 | 1 |
-| 帖子收藏 | 3 |
+| 帖子收藏 | 4 |
 
 ## 🏷️ 标签云
 
-`agent` `architecture` `prompt` `image-generation` `反推` `video-generation` `claude-code` `openclaw` `multi-agent` `context-engineering` `memory-system` `skills` `hooks` `subagents` `prompt-caching` `seedance` `nanobanana2` `blueprint` `design` `mcp` `video-editing` `ffmpeg` `diagram` `svg` `ai-news` `cloudflare` `api-proxy` `macOS` `web-design` `animation` `ui-components` `vibe-coding` `frontend` `music` `product-idea` `reverse-engineering` `security` `pentest` `inspiration` `product-hunt` `indie-hacker` `ai-clone`
+`agent` `architecture` `prompt` `image-generation` `反推` `video-generation` `claude-code` `openclaw` `multi-agent` `context-engineering` `memory-system` `skills` `hooks` `subagents` `prompt-caching` `seedance` `nanobanana2` `blueprint` `design` `mcp` `video-editing` `ffmpeg` `diagram` `svg` `ai-news` `cloudflare` `api-proxy` `macOS` `web-design` `animation` `ui-components` `vibe-coding` `frontend` `music` `product-idea` `reverse-engineering` `security` `pentest` `inspiration` `product-hunt` `indie-hacker` `ai-clone` `xiaohongshu` `商单` `报价` `mcn` `投放`
 
 ---
 
