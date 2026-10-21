@@ -1,6 +1,6 @@
 # 知识索引
 
-> 最后更新：2026-10-20 | 条目总数：20
+> 最后更新：2026-10-21 | 条目总数：21
 
 ## 📌 快速导航
 
@@ -65,6 +65,7 @@
 | [视频剪辑 SKILL 推荐（懒人收藏版）](ai/tools/video-editing-skills.md) | 2026-07-22 | video-editing, tools, ffmpeg | palmier-pro, seedance |
 | [网页动效宝藏站点合集（5 个）](ai/tools/web-motion-sites.md) | 2026-10-12 | web-design, animation, ui-components, vibe-coding | x-jackywine-design-aesthetic, infinite-canvas, design-inspiration-sites |
 | [网页设计灵感 & 开发思路站点合集（6 个 + AI 复刻工具）](ai/tools/design-inspiration-sites.md) | 2026-10-15 | web-design, inspiration, ui-components, product-hunt, indie-hacker | web-motion-sites, x-jackywine-design-aesthetic |
+| [Claude Opus 5.5 纯代码视频 GitHub 仓库合集（8 个）](ai/tools/opus-code-video-repos.md) | 2026-10-21 | video-generation, opus5-5, code-video, prompts, motion-design, repos | video-editing-skills, seedance-producer-prompt, palmier-pro |
 
 ## 灵感记录
 
@@ -87,18 +88,18 @@
 
 | 维度 | 数量 |
 |------|------|
-| 总条目 | 20 |
+| 总条目 | 21 |
 | Agent 设计 | 2 |
 | 文章笔记 | 1 |
 | 提示词 | 5 |
 | AI Skills | 3 |
-| 工具调研 | 4 |
+| 工具调研 | 5 |
 | 灵感 | 1 |
 | 帖子收藏 | 4 |
 
 ## 🏷️ 标签云
 
-`agent` `architecture` `prompt` `image-generation` `反推` `video-generation` `claude-code` `openclaw` `multi-agent` `context-engineering` `memory-system` `skills` `hooks` `subagents` `prompt-caching` `seedance` `nanobanana2` `blueprint` `design` `mcp` `video-editing` `ffmpeg` `diagram` `svg` `ai-news` `cloudflare` `api-proxy` `macOS` `web-design` `animation` `ui-components` `vibe-coding` `frontend` `music` `product-idea` `reverse-engineering` `security` `pentest` `inspiration` `product-hunt` `indie-hacker` `ai-clone` `xiaohongshu` `商单` `报价` `mcn` `投放`
+`agent` `architecture` `prompt` `image-generation` `反推` `video-generation` `claude-code` `openclaw` `multi-agent` `context-engineering` `memory-system` `skills` `hooks` `subagents` `prompt-caching` `seedance` `nanobanana2` `blueprint` `design` `mcp` `video-editing` `ffmpeg` `diagram` `svg` `ai-news` `cloudflare` `api-proxy` `macOS` `web-design` `animation` `ui-components` `vibe-coding` `frontend` `music` `product-idea` `opus5-5` `code-video` `motion-design` `repos` `reverse-engineering` `security` `pentest` `inspiration` `product-hunt` `indie-hacker` `ai-clone` `xiaohongshu` `商单` `报价` `mcn` `投放`
 
 ---
 
