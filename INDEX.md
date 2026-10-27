@@ -1,6 +1,6 @@
 # 知识索引
 
-> 最后更新：2026-10-21 | 条目总数：21
+> 最后更新：2026-10-27 | 条目总数：22
 
 ## 📌 快速导航
 
@@ -56,6 +56,7 @@
 | [Architecture Diagram Generator](ai/skills/cocoon-ai/architecture-diagram-generator.md) | 2026-04-15 | skill, diagram, svg, cocoon-ai | - |
 | [AI 干货周报 Skill](ai/skills/youmind/ai-insights-weekly-report.md) | 2026-04-15 | skill, ai-news, weekly-report, youmind | - |
 | [Reverse Skill：AI 逆向/渗透技能路由包](ai/skills/reverse-skill.md) | 2026-09-03 | skill, reverse-engineering, security, pentest, claude-code | - |
+| [WorkBuddy 去 AI 味 Skill 提示词清单（第 1-2 批，20 个）](ai/skills/workbuddy-de-ai-writing-skills.md) | 2026-10-27 | skill, humanizer, de-ai, writing, prompt | openai-academy-prompt-packs |
 
 ## 工具调研与推荐
 
@@ -88,18 +89,18 @@
 
 | 维度 | 数量 |
 |------|------|
-| 总条目 | 21 |
+| 总条目 | 22 |
 | Agent 设计 | 2 |
 | 文章笔记 | 1 |
 | 提示词 | 5 |
-| AI Skills | 3 |
+| AI Skills | 4 |
 | 工具调研 | 5 |
 | 灵感 | 1 |
 | 帖子收藏 | 4 |
 
 ## 🏷️ 标签云
 
-`agent` `architecture` `prompt` `image-generation` `反推` `video-generation` `claude-code` `openclaw` `multi-agent` `context-engineering` `memory-system` `skills` `hooks` `subagents` `prompt-caching` `seedance` `nanobanana2` `blueprint` `design` `mcp` `video-editing` `ffmpeg` `diagram` `svg` `ai-news` `cloudflare` `api-proxy` `macOS` `web-design` `animation` `ui-components` `vibe-coding` `frontend` `music` `product-idea` `opus5-5` `code-video` `motion-design` `repos` `reverse-engineering` `security` `pentest` `inspiration` `product-hunt` `indie-hacker` `ai-clone` `xiaohongshu` `商单` `报价` `mcn` `投放`
+`agent` `architecture` `prompt` `image-generation` `反推` `video-generation` `claude-code` `openclaw` `multi-agent` `context-engineering` `memory-system` `skills` `hooks` `subagents` `prompt-caching` `seedance` `nanobanana2` `blueprint` `design` `mcp` `video-editing` `ffmpeg` `diagram` `svg` `ai-news` `cloudflare` `api-proxy` `macOS` `web-design` `animation` `ui-components` `vibe-coding` `frontend` `music` `product-idea` `opus5-5` `code-video` `motion-design` `repos` `reverse-engineering` `security` `pentest` `humanizer` `de-ai` `writing` `prompt` `inspiration` `product-hunt` `indie-hacker` `ai-clone` `xiaohongshu` `商单` `报价` `mcn` `投放`
 
 ---
 
