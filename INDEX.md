@@ -1,6 +1,6 @@
 # 知识索引
 
-> 最后更新：2026-10-27 | 条目总数：22
+> 最后更新：2026-11-02 | 条目总数：23
 
 ## 📌 快速导航
 
@@ -57,6 +57,7 @@
 | [AI 干货周报 Skill](ai/skills/youmind/ai-insights-weekly-report.md) | 2026-04-15 | skill, ai-news, weekly-report, youmind | - |
 | [Reverse Skill：AI 逆向/渗透技能路由包](ai/skills/reverse-skill.md) | 2026-09-03 | skill, reverse-engineering, security, pentest, claude-code | - |
 | [WorkBuddy 去 AI 味 Skill 提示词清单（第 1-2 批，20 个）](ai/skills/workbuddy-de-ai-writing-skills.md) | 2026-10-27 | skill, humanizer, de-ai, writing, prompt | openai-academy-prompt-packs |
+| [小红书全套运营 Skill 合集（12 个）](ai/skills/xiaohongshu-operations-skill-collection.md) | 2026-11-02 | skill, xiaohongshu, 小红书, 运营, mcp, social-media | xiaohongshu-brand-deal-playbook, video-editing-skills |
 
 ## 工具调研与推荐
 
@@ -89,18 +90,18 @@
 
 | 维度 | 数量 |
 |------|------|
-| 总条目 | 22 |
+| 总条目 | 23 |
 | Agent 设计 | 2 |
 | 文章笔记 | 1 |
 | 提示词 | 5 |
-| AI Skills | 4 |
+| AI Skills | 5 |
 | 工具调研 | 5 |
 | 灵感 | 1 |
 | 帖子收藏 | 4 |
 
 ## 🏷️ 标签云
 
-`agent` `architecture` `prompt` `image-generation` `反推` `video-generation` `claude-code` `openclaw` `multi-agent` `context-engineering` `memory-system` `skills` `hooks` `subagents` `prompt-caching` `seedance` `nanobanana2` `blueprint` `design` `mcp` `video-editing` `ffmpeg` `diagram` `svg` `ai-news` `cloudflare` `api-proxy` `macOS` `web-design` `animation` `ui-components` `vibe-coding` `frontend` `music` `product-idea` `opus5-5` `code-video` `motion-design` `repos` `reverse-engineering` `security` `pentest` `humanizer` `de-ai` `writing` `prompt` `inspiration` `product-hunt` `indie-hacker` `ai-clone` `xiaohongshu` `商单` `报价` `mcn` `投放`
+`agent` `architecture` `prompt` `image-generation` `反推` `video-generation` `claude-code` `openclaw` `multi-agent` `context-engineering` `memory-system` `skills` `hooks` `subagents` `prompt-caching` `seedance` `nanobanana2` `blueprint` `design` `mcp` `video-editing` `ffmpeg` `diagram` `svg` `ai-news` `cloudflare` `api-proxy` `macOS` `web-design` `animation` `ui-components` `vibe-coding` `frontend` `music` `product-idea` `opus5-5` `code-video` `motion-design` `repos` `reverse-engineering` `security` `pentest` `humanizer` `de-ai` `writing` `prompt` `inspiration` `product-hunt` `indie-hacker` `ai-clone` `xiaohongshu` `小红书` `运营` `social-media` `content-ops` `商单` `报价` `mcn` `投放`
 
 ---
 
