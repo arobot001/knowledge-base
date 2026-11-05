@@ -1,6 +1,6 @@
 # 知识索引
 
-> 最后更新：2026-11-02 | 条目总数：23
+> 最后更新：2026-11-05 | 条目总数：24
 
 ## 📌 快速导航
 
@@ -68,6 +68,7 @@
 | [网页动效宝藏站点合集（5 个）](ai/tools/web-motion-sites.md) | 2026-10-12 | web-design, animation, ui-components, vibe-coding | x-jackywine-design-aesthetic, infinite-canvas, design-inspiration-sites |
 | [网页设计灵感 & 开发思路站点合集（6 个 + AI 复刻工具）](ai/tools/design-inspiration-sites.md) | 2026-10-15 | web-design, inspiration, ui-components, product-hunt, indie-hacker | web-motion-sites, x-jackywine-design-aesthetic |
 | [Claude Opus 5.5 纯代码视频 GitHub 仓库合集（8 个）](ai/tools/opus-code-video-repos.md) | 2026-10-21 | video-generation, opus5-5, code-video, prompts, motion-design, repos | video-editing-skills, seedance-producer-prompt, palmier-pro |
+| [100% 免费！16 个开源动作工作室仓库（AE 替代方案）](ai/tools/animation-studio-16-repos.md) | 2026-11-05 | animation, motion-design, vfx, video-generation, repos, open-source, remotion, three.js | opus-code-video-repos, video-editing-skills, web-motion-sites |
 
 ## 灵感记录
 
@@ -90,18 +91,18 @@
 
 | 维度 | 数量 |
 |------|------|
-| 总条目 | 23 |
+| 总条目 | 24 |
 | Agent 设计 | 2 |
 | 文章笔记 | 1 |
 | 提示词 | 5 |
 | AI Skills | 5 |
-| 工具调研 | 5 |
+| 工具调研 | 6 |
 | 灵感 | 1 |
 | 帖子收藏 | 4 |
 
 ## 🏷️ 标签云
 
-`agent` `architecture` `prompt` `image-generation` `反推` `video-generation` `claude-code` `openclaw` `multi-agent` `context-engineering` `memory-system` `skills` `hooks` `subagents` `prompt-caching` `seedance` `nanobanana2` `blueprint` `design` `mcp` `video-editing` `ffmpeg` `diagram` `svg` `ai-news` `cloudflare` `api-proxy` `macOS` `web-design` `animation` `ui-components` `vibe-coding` `frontend` `music` `product-idea` `opus5-5` `code-video` `motion-design` `repos` `reverse-engineering` `security` `pentest` `humanizer` `de-ai` `writing` `prompt` `inspiration` `product-hunt` `indie-hacker` `ai-clone` `xiaohongshu` `小红书` `运营` `social-media` `content-ops` `商单` `报价` `mcn` `投放`
+`agent` `architecture` `prompt` `image-generation` `反推` `video-generation` `claude-code` `openclaw` `multi-agent` `context-engineering` `memory-system` `skills` `hooks` `subagents` `prompt-caching` `seedance` `nanobanana2` `blueprint` `design` `mcp` `video-editing` `ffmpeg` `diagram` `svg` `ai-news` `cloudflare` `api-proxy` `macOS` `web-design` `animation` `ui-components` `vibe-coding` `frontend` `music` `product-idea` `opus5-5` `code-video` `motion-design` `repos` `reverse-engineering` `security` `pentest` `humanizer` `de-ai` `writing` `prompt` `inspiration` `open-source` `vfx` `three.js` `remotion` `product-hunt` `indie-hacker` `ai-clone` `xiaohongshu` `小红书` `运营` `social-media` `content-ops` `商单` `报价` `mcn` `投放`
 
 ---
 

@@ -5,7 +5,7 @@ category: ai/tools
 tags: [video-generation, opus5-5, code-video, prompts, motion-design, repos]
 source: social-media
 author: 云归
-related: [video-editing-skills, seedance-producer-prompt, palmier-pro]
+related: [video-editing-skills, seedance-producer-prompt, palmier-pro, animation-studio-16-repos]
 ---
 
 # Claude Opus 5.5 纯代码视频 GitHub 仓库合集

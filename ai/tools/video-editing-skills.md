@@ -5,7 +5,7 @@ category: ai/tools
 tags: [video-editing, tools, skills, ffmpeg, remotion, hyperframes]
 source: custom
 author: 云归
-related: [palmier-pro, seedance-producer-prompt]
+related: [palmier-pro, seedance-producer-prompt, animation-studio-16-repos]
 ---
 
 # 视频剪辑 SKILL 推荐（懒人收藏版）
