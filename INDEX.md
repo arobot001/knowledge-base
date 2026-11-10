@@ -1,6 +1,6 @@
 # 知识索引
 
-> 最后更新：2026-11-05 | 条目总数：24
+> 最后更新：2026-11-10 | 条目总数：25
 
 ## 📌 快速导航
 
@@ -26,6 +26,7 @@
 | 条目 | 日期 | 标签 | 关联 |
 |------|------|------|------|
 | [你不知道的 Claude Code：架构、治理与工程实践](ai/articles/claude-code-architecture-governance.md) | 2026-03-14 | claude-code, architecture, hooks | openclaw-multi-agent |
+| [AI 短片幕后：三周制作流程与工具栈](ai/articles/ai-short-film-production-notes.md) | 2026-11-10 | video-generation, seedance, nanobanana, opus5-5, suno, segment-anything, workflow, audio | seedance-producer-prompt, opus-code-video-repos, video-editing-skills |
 
 ## 提示词工程
 
@@ -91,9 +92,9 @@
 
 | 维度 | 数量 |
 |------|------|
-| 总条目 | 24 |
+| 总条目 | 25 |
 | Agent 设计 | 2 |
-| 文章笔记 | 1 |
+| 文章笔记 | 2 |
 | 提示词 | 5 |
 | AI Skills | 5 |
 | 工具调研 | 6 |
@@ -102,7 +103,7 @@
 
 ## 🏷️ 标签云
 
-`agent` `architecture` `prompt` `image-generation` `反推` `video-generation` `claude-code` `openclaw` `multi-agent` `context-engineering` `memory-system` `skills` `hooks` `subagents` `prompt-caching` `seedance` `nanobanana2` `blueprint` `design` `mcp` `video-editing` `ffmpeg` `diagram` `svg` `ai-news` `cloudflare` `api-proxy` `macOS` `web-design` `animation` `ui-components` `vibe-coding` `frontend` `music` `product-idea` `opus5-5` `code-video` `motion-design` `repos` `reverse-engineering` `security` `pentest` `humanizer` `de-ai` `writing` `prompt` `inspiration` `open-source` `vfx` `three.js` `remotion` `product-hunt` `indie-hacker` `ai-clone` `xiaohongshu` `小红书` `运营` `social-media` `content-ops` `商单` `报价` `mcn` `投放`
+`agent` `architecture` `prompt` `image-generation` `反推` `video-generation` `claude-code` `openclaw` `multi-agent` `context-engineering` `memory-system` `skills` `hooks` `subagents` `prompt-caching` `seedance` `nanobanana2` `blueprint` `design` `mcp` `video-editing` `ffmpeg` `diagram` `svg` `ai-news` `cloudflare` `api-proxy` `macOS` `web-design` `animation` `ui-components` `vibe-coding` `frontend` `music` `product-idea` `opus5-5` `code-video` `motion-design` `repos` `reverse-engineering` `security` `pentest` `humanizer` `de-ai` `writing` `prompt` `inspiration` `open-source` `vfx` `three.js` `remotion` `product-hunt` `indie-hacker` `ai-clone` `xiaohongshu` `小红书` `运营` `social-media` `content-ops` `商单` `报价` `mcn` `投放` `seedance-2-5` `nanobanana` `suno` `audio` `segment-anything` `workflow`
 
 ---
 
